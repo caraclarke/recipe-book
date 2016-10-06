@@ -21,4 +21,5 @@ import { RecipesComponent } from "./recipes";
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
